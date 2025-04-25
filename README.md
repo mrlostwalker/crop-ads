@@ -1,2 +1,0 @@
-# crop-ads
-developing wwebsite
